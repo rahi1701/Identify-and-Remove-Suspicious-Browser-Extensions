@@ -69,3 +69,53 @@ uBlock Origin (ad blocker)
 
 Privacy Badger (tracker blocker)
 
+How Malicious Extensions Harm Users
+=====
+
+# 1. Data Theft
+Access to all websites: Many extensions request permission to read and modify data on all sites you visit.
+
+Steal credentials: They can capture usernames, passwords, and credit card numbers.
+
+Keylogging: Some log every keystroke, sending it to remote servers.
+
+# 2. Surveillance & Tracking
+Persistent user tracking via cookies, local storage, and fingerprinting.
+
+Bypass privacy settings (like Incognito mode or anti-tracking tools).
+
+# 3. Ad Injections and Redirects
+Inserts unauthorized ads into websites (called ad injection).
+
+Redirects search queries to malicious or scam websites.
+
+Often monetized via affiliate fraud or malvertising.
+
+# 4. Browser Hijacking
+Changes browser settings like homepage, new tab, or default search engine.
+
+Prevents the user from restoring original settings.
+
+Some inject persistent background scripts to reapply changes on startup.
+
+# 5. Privilege Escalation / Remote Code Execution
+Some extensions use remote scripts, giving the attacker the ability to:
+
+Load arbitrary malicious JavaScript.
+
+Exploit browser vulnerabilities.
+
+Open backdoors to system-level exploits.
+
+# 6. Credential Phishing
+Spoof login forms (e.g., fake Google or Facebook popups).
+
+Auto-fill fake login pages using your real credentials from autofill tools.
+
+Steal OAuth tokens or session cookies.
+
+# 7. Cryptojacking
+Uses your CPU/GPU power to mine cryptocurrency in the background.
+
+Causes overheating, device slowdowns, and battery drain.
+
