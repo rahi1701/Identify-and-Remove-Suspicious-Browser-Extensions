@@ -36,7 +36,7 @@ Disable suspicious extensions (toggle off) or click “Remove” to uninstall.
 For Mozilla Firefox:
 ===
 
-  Open Firefox and go to: about:addons
+    Open Firefox and go to: about:addons
 
 ![image](https://github.com/user-attachments/assets/832052ca-282e-481a-947f-fa2e16269c52)
 
