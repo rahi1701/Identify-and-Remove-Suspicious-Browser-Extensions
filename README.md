@@ -40,3 +40,32 @@ For Mozilla Firefox:
 
 ![image](https://github.com/user-attachments/assets/832052ca-282e-481a-947f-fa2e16269c52)
 
+# Navigate to Extensions.
+```
+Look for:
+
+Unknown names or recent installations you didn’t authorize.
+
+Suspicious permissions (like reading all website data).
+
+Click the three dots (⋮) next to the extension > Remove.
+```
+# Step 2: Clean Up and Secure
+Run antivirus/anti-malware software (e.g., Malwarebytes, Windows Defender).
+
+Reset browser settings (optional if you notice ongoing issues).
+
+Check sync settings – Some extensions may return via account sync.
+
+# Step 3: Prevent Future Issues
+
+Install only from official web stores.
+
+Read reviews and check permissions before installing.
+
+Use trusted security tools like:
+
+uBlock Origin (ad blocker)
+
+Privacy Badger (tracker blocker)
+
